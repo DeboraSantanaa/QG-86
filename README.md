@@ -4,7 +4,7 @@ Bem-vindo ao repositório do site da **QG-86 Barbearia**! Aqui você encontra o 
 
 ---
 
-## 💪 Sobre a Barbearia
+## ℹ️ Sobre a Barbearia
 
 A **QG-86** é uma barbearia que une estilo, qualidade e tradição. Nosso objetivo é proporcionar cortes e serviços de alto padrão, oferecendo um atendimento personalizado para cada cliente. Além disso, oferecemos cursos para quem deseja ingressar no ramo da barbearia.
 
@@ -41,13 +41,13 @@ A **QG-86** é uma barbearia que une estilo, qualidade e tradição. Nosso objet
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/barbearia.git
+    git clone https://github.com/DeboraSantanaa/QG-86.git
     ```
 
 2. Acesse a pasta do projeto:
 
     ```bash
-    cd barbearia
+    cd QG-86
     ```
 
 3. Abra o arquivo `index.html` em seu navegador.
