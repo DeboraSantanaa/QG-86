@@ -1,12 +1,16 @@
-# QG-86 Barbearia ✂️
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FDBE05&background=25252500&width=435&lines=QG-86)](https://git.io/typing-svg) 
 
-Bem-vindo ao repositório do site da **QG-86 Barbearia**! Aqui você encontra o código-fonte do projeto, desenvolvido com HTML, CSS e Bootstrap para garantir uma experiência moderna e responsiva.
+Bem-vindo ao repositório do site da **QG-86 Barbearia**! <br>
+Aqui você encontra o código-fonte do projeto, desenvolvido com HTML, CSS e Bootstrap para garantir uma experiência moderna e responsiva.
 
 ---
 
 ## ℹ️ Sobre a Barbearia
 
-A **QG-86** é uma barbearia que une estilo, qualidade e tradição. Nosso objetivo é proporcionar cortes e serviços de alto padrão, oferecendo um atendimento personalizado para cada cliente. Além disso, oferecemos cursos para quem deseja ingressar no ramo da barbearia.
+A **QG-86** é uma barbearia que une estilo, qualidade e tradição. <br> 
+Nosso objetivo é proporcionar cortes e serviços de alto padrão, oferecendo um atendimento personalizado para cada cliente. 
+<br>
+Além disso, oferecemos cursos para quem deseja ingressar no ramo da barbearia.
 
 ---
 
@@ -81,6 +85,11 @@ Tem alguma sugestão ou dúvida? Entre em contato!
 🌍 **Site**: [www.qg86barbearia.com](https://www.qg86barbearia.com)
 
 ---
+
+
+## Autor
+| [<img src="https://avatars.githubusercontent.com/u/113525688?v=4" width=115><br><sub>Débora Santana</sub>](https://github.com/DeboraSantanaa)
+| :---: |
 
 Feito com ❤️ por **Débora Santana** ✂️
 
