@@ -1,84 +1,87 @@
-✂️ QG-86 Barbearia
+# QG-86 Barbearia ✂️
 
-Bem-vindo ao repositório do site da QG-86 Barbearia! Aqui você encontra o código-fonte do projeto, desenvolvido com HTML, CSS e Bootstrap para garantir uma experiência moderna e responsiva.
+Bem-vindo ao repositório do site da **QG-86 Barbearia**! Aqui você encontra o código-fonte do projeto, desenvolvido com HTML, CSS e Bootstrap para garantir uma experiência moderna e responsiva.
 
-💪 Sobre a Barbearia
+---
 
-A QG-86 é uma barbearia que une estilo, qualidade e tradição. Nosso objetivo é proporcionar cortes e serviços de alto padrão, 
-oferecendo um atendimento personalizado para cada cliente. Além disso, oferecemos cursos para quem deseja ingressar no ramo da barbearia.
+## 💪 Sobre a Barbearia
 
-🌟 Tecnologias Utilizadas
+A **QG-86** é uma barbearia que une estilo, qualidade e tradição. Nosso objetivo é proporcionar cortes e serviços de alto padrão, oferecendo um atendimento personalizado para cada cliente. Além disso, oferecemos cursos para quem deseja ingressar no ramo da barbearia.
 
-HTML5: Estrutura do site.
-CSS3: Estilização personalizada.
-Bootstrap 5: Layout responsivo e componentes dinâmicos.
-Font Awesome: Ícones estilizados para uma melhor experiência visual.
+---
 
+## 🌟 Tecnologias Utilizadas
 
-📝 Metodologias Utilizadas
+- **HTML5**: Estrutura do site.
+- **CSS3**: Estilização personalizada.
+- **Bootstrap 5**: Layout responsivo e componentes dinâmicos.
+- **Font Awesome**: Ícones estilizados para uma melhor experiência visual.
 
-Design Responsivo: Ajuste dinâmico para diferentes tamanhos de tela.
+---
 
+## 📝 Metodologias Utilizadas
 
-💚 Paleta de Cores
+- **Design Responsivo**: Ajuste dinâmico para diferentes tamanhos de tela, garantindo que o site seja acessível em dispositivos móveis e desktops.
 
-Cor
+---
 
-Hex
+## 💚 Paleta de Cores
 
-Preto
+| Cor            | Hex       |
+|----------------|-----------|
+| **Preto**      | `#000000` |
+| **Cinza-escuro**| `#252525` |
+| **Branco**     | `#ffffff` |
+| **Dourado**    | `#ffc107` |
 
-#000000
+---
 
-Cinza-escuro
+## 🛠️ Como Executar o Projeto
 
-#252525
+1. Clone o repositório:
 
-Branco
+    ```bash
+    git clone https://github.com/seu-usuario/barbearia.git
+    ```
 
-#ffffff
+2. Acesse a pasta do projeto:
 
-Dourado
+    ```bash
+    cd barbearia
+    ```
 
-#ffc107
+3. Abra o arquivo `index.html` em seu navegador.
 
-🛠️ Como Executar o Projeto
+---
 
-Clone o repositório:
+## 🏬 Páginas do Site
 
-git clone https://github.com/seu-usuario/barbearia.git
+- **Início**: Apresentação da barbearia.
+- **Serviços**: Lista dos serviços oferecidos.
+- **Cursos**: Informações sobre cursos de barbearia.
+- **Contato**: Formulário para comunicação.
+- **Localização**: Mapa e fotos do local.
 
-Acesse a pasta do projeto:
+---
 
-cd barbearia
+## 🎬 Demonstração
 
-Abra o arquivo index.html em seu navegador.
+Confira a demonstração ao vivo do site:
 
+[**Site: QG-86 Barbearia**](https://qg-86.vercel.app/)
 
-🏬 Páginas do Site
+---
 
-Início - Apresentação da barbearia.
-
-Serviços - Lista dos serviços oferecidos.
-
-Cursos - Informações sobre cursos de barbearia.
-
-Contato - Formulário para comunicação.
-
-Localização - Mapa ie fotos do local.
-
-
-🎬 Demonstração
-
-[Site: ](https://qg-86.vercel.app/)
-
-💬 Contato
+## 💬 Contato
 
 Tem alguma sugestão ou dúvida? Entre em contato!
 
-📧 E-mail: deborasantana.dev@gmail.com
+📧 **E-mail**: [deborasantana.dev@gmail.com](mailto:deborasantana.dev@gmail.com)
 
-🌍 Site: www.qg86barbearia.com
+🌍 **Site**: [www.qg86barbearia.com](https://www.qg86barbearia.com)
 
-Feito com ❤️ por Débora Santana ✂️
+---
+
+Feito com ❤️ por **Débora Santana** ✂️
+
 
