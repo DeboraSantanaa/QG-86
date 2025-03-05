@@ -14,7 +14,12 @@ Além disso, oferecemos cursos para quem deseja ingressar no ramo da barbearia.
 
 ---
 
-## 🌟 Tecnologias Utilizadas
+## 💻 Tecnologias Utilizadas
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C.svg?style=flat&logo=bootstrap&logoColor=white)  
+![Font Awesome](https://img.shields.io/badge/Font_Awesome-5284D6.svg?style=flat&logo=font-awesome&logoColor=white)
 
 - **HTML5**: Estrutura do site.
 - **CSS3**: Estilização personalizada.
