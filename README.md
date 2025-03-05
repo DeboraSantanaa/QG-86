@@ -82,7 +82,7 @@ Tem alguma sugestão ou dúvida? Entre em contato!
 
 📧 **E-mail**: [deborasantana.dev@gmail.com](mailto:deborasantana.dev@gmail.com)
 
-🌍 **Site**: [www.qg86barbearia.com](https://www.qg86barbearia.com)
+🌍 **Site**: [https://qg-86.vercel.app/](https://qg-86.vercel.app/)
 
 ---
 
