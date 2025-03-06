@@ -34,7 +34,7 @@ Além disso, oferecemos cursos para quem deseja ingressar no ramo da barbearia.
 
 ---
 
-## 💚 Paleta de Cores
+## 🎨 Paleta de Cores
 
 | Cor            | Hex       |
 |----------------|-----------|
