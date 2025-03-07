@@ -83,9 +83,7 @@
 
 
 /* --------------------------- Configuração HOME --------------------------- */
-
 .parallax {
-    height: 90vh;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -99,6 +97,26 @@
     animation: BgAnimation 20s ease-in-out infinite;
 }
 
+/* Responsividade */
+@media (max-width: 768px) {
+    .parallax {
+        min-height: 100%; 
+    margin-top: 10vh;
+ 
+    }
+
+    #subtitulo{
+        margin-top: 5vh;
+    }
+
+    .tituloPrincipal {
+        font-size: 1rem; 
+    }
+    .btn-principal {
+        display: inline-block; 
+        margin-top: 15px;
+    }
+}
 @keyframes BgAnimation {
     0% {
         background-image: url("../img/img-principal1.jpg");
