@@ -82,7 +82,7 @@
 
 
 
-/* --------------------------- Início Configuração Parallax HOME --------------------------- */
+/* --------------------------- Configuração HOME --------------------------- */
 
 .parallax {
     height: 90vh;
@@ -203,7 +203,7 @@
 }
 
 
-.sobre>.container {
+.sobre .container {
     position: relative;
     z-index: 2;
 }
@@ -338,6 +338,7 @@
     font-size: 3rem;
     color: #fff;
     margin-bottom: 1rem;
+text-transform: UPPERCASE;
 }
 
 .subtitulo {
@@ -436,7 +437,8 @@
     color: #FDBE05;
     margin-bottom: 0.5rem;
     letter-spacing: 2px;
-    text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.6);
+    text-transform: uppercase;
+  
 }
 
 .subtitulo-app {
@@ -702,12 +704,12 @@
 }
 
 
-.section-profissionais p.subtitulo {
+.section-profissionais p.subtitulo{
     font-size: 1.2rem;
     color: #ccc;
     margin-top: 10px;
     font-weight: 700;
-    text-align: justify;
+    text-align: center;
 }
 
 
@@ -815,11 +817,12 @@
     background-size: cover;
     padding: 120px 0;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 2vh;
 }
 
 .hero h1 {
     font-size: 3.5rem;
-    font-weight: bold;
     text-transform: uppercase;
 }
 
