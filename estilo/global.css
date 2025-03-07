@@ -12,14 +12,10 @@
     padding: 15px 0;
     z-index: -1000;
     position: relative;
+    font-family: verdana;
 }
 
 
-
-.navbar-nav .nav-item .nav-link:hover {
-    color: #ffba08 !important;
-    transform: translateY(-2px);
-}
 
 
 /************ESTILO PADRÃO TODAS AS PAGINAS - MENU , BTN WHATSAPP , FOOTER ***************/
