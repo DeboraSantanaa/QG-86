@@ -96,11 +96,11 @@
     overflow: hidden;
     animation: BgAnimation 20s ease-in-out infinite;
 }
-/* Responsividade */
+//* Responsividade */
 @media (max-width: 768px) {
     .parallax {
-        min-height: 100%; 
-  
+    min-height: 100%; 
+    margin-top: 10vh;
  
     }
 
